@@ -1,0 +1,2 @@
+query_time,total_time,loading_time,execution_time
+17478.533,15991.306598,15908.763032,81.705687
